@@ -1,0 +1,255 @@
+{
+  "SystemSettingsPageData": {
+    "ulCount": 1,
+    "ulItems": [
+      {
+        "ulLabel": "System Settings",
+        "liItems": [
+          "System Customisation",
+          "System Users",
+          "Security Roles",
+          "Multiple Document Upload",
+          "System Pipelines",
+          "Welcome Email",
+          "Public Report Library"
+        ]
+      }
+    ]
+  },
+
+  "CommunicationPageData": {
+    "ulCount": 4,
+    "ulItems": [
+      {
+        "ulLabel": "Email Options",
+        "liItems": ["Email Templates", "Inbox", "Outbox"]
+      },
+      {
+        "ulLabel": "Letter Options",
+        "liItems": [
+          "Letter Templates",
+          "Contract Options",
+          "Contracts",
+          "Contract Sections"
+        ]
+      },
+      {
+        "ulLabel": "Contract Options",
+        "liItems": ["Contracts", "Contract Sections"]
+      },
+      {
+        "ulLabel": "SMS Options",
+        "liItems": ["SMS Templates", "Inbox", "Outbox"]
+      }
+    ]
+  },
+  "AuthorizationPageData": {
+    "ulCount": 1,
+    "ulItems": [
+      {
+        "ulLabel": "Authorisation Setup",
+        "liItems": [
+          "Authorisation Users\n\nCreate new requisition users.",
+          "Authorisation Templates\n\nCreate new authorisation templates.",
+          "Authorisation Groups\n\nCreate new authorisation groups",
+          "Job Authorisation Master Template\n\nEdit information about master template"
+        ]
+      }
+    ]
+  },
+  "AssessmentFormsPageData": {
+    "ulCount": 1,
+    "ulItems": [
+      {
+        "ulLabel": "Assessment Forms",
+        "liItems": [
+          "Assessment Forms\n\nAdd or update assessment form.",
+          "Question Bank\n\nList of questions.",
+          "Group & Timed Forms\n\nAdd or update Grouped & Timed assessment form.",
+          "Job Type\n\nGroup questions by Job Type i.e. Customer Service, Finance etc.",
+          "Archived Forms\n\nView archived assessment forms"
+        ]
+      }
+    ]
+  },
+  "ApplicationTemplatesPageData": {
+    "ulCount": 1,
+    "ulItems": [
+      {
+        "ulLabel": "Settings: Application Templates & Custom Fields",
+        "liItems": [
+          "Application Templates\n\nAdd new or existing application form templates",
+          "Direct Apply Application Form\n\nCreate a new Direct Apply Application Form",
+          "Custom Fields\n\nAdd new Custom Fields.",
+          "Talent Application Form\n\nCreate a new Talent Application Form"
+        ]
+      }
+    ]
+  },
+  "GeneralSettingsPageData": {
+    "ulCount": 1,
+    "ulItems": [
+      {
+        "ulLabel": "General Settings",
+        "liCount":36,
+        "liItems": [
+          "Locations\n\nAdd new location. Edit the existing locations.",
+          "Job Regions\n\nAdd new Job region. Edit the existing regions.",
+          "Departments\n\nAdd a new department. Edit the existing departments",
+          "Job Categories\n\nCreate, edit, and delete job categories (used by candidates when searching for jobs).",
+          "Job Levels\n\nAdd new job level. Edit the existing job levels.",
+          "Adverts\n\nAdd new source of advert. Edit the existing adverts.",
+          "Salary Bands\n\nManage salary ranges for your organization (used by candidates when searching for jobs).",
+          "Advert Categories\n\nAdd or edit the advert categories",
+          "External Agencies\n\nAdd new agency, Edit existing agency details.",
+          "Candidate Application Statuses\n\nAdd or edit the application statuses (used to track candidates through the recruitment process).",
+          "Divisions\n\nAdd new division. Edit the existing divisions.",
+          "Document Library",
+          "Ethnic Origins\n\nAdd or edit the ethnic origins (used as part of the equal opportunities monitoring form).",
+          "Campaigns\n\nAdd new campaign. Edit the existing campaigns",
+          "Job Titles\n\nAdd new job title. Edit the existing job titles.",
+          "Address Book\n\nAdd new contact. Edit existing contacts in the address book.",
+          "School Locations\n\nAdd or edit the school locations",
+          "School Subjects\n\nAdd or edit the school subjects",
+          "Work Levels\n\nAdd new work level. Edit the existing work level.",
+          "Cost Centers\n\nAdd new cost center. Edit existing cost center.",
+          "Packages\n\nAdd new package. Edit the existing package.",
+          "Job Codes\n\nAdd new JobCode. Edit the existing JobCode.",
+          "Status Change Reasons\n\nAdd new reason. Edit the existing reasons.",
+          "Skills Category\n\nAdd new Skills Category. Edit the existing Skills Category.",
+          "Skills\n\nAdd new skill. Edit the existing skill.",
+          "Bulk Recruitment Specialisms\n\nAdd new Specialisms for Bulk recruitment. Edit the existing Specialisms for Bulk recruitment.",
+          "Agency Specialisms\n\nAdd new Agency Specialisms. Edit the existing Agency Specialisms.",
+          "Delete & Withdraw Reasons\n\nAdd new reason. Edit the existing reasons.",
+          "NHSBanks(eESS Interface)\n\nAdd new Bank. Edit the existing Banks.",
+          "Corporate Account\n\nUpdate Signature",
+          "Job Board Marketplace Campaigns\n\nView existing and previous advertising campaigns",
+          "Job Board Marketing Logos",
+          "Work Pattern\n\nAdd new Work Pattern. Edit the existing Work Pattern.",
+          "Colleague Category\n\nAdd new Colleague Category. Edit the existing Colleague Category.",
+          "Post Reference\n\nAdd new post reference. Edit the existing post references.",
+          "Funding Source\n\nAdd new funding source. Edit the existing funding source"
+        ]
+      }
+    ]
+  },
+  "OnboardingPageData": {
+    "ulCount": 3,
+    "ulItems": [
+      {
+        "ulLabel": "Onboarding",
+        "liItems": [
+          "Onboarding Settings\n\nCustomise onboarding settings.",
+          "Document Types",
+          "Document Library\n\nCustomise onboarding settings.",
+          "Onboarding Templates\n\nAdd new onboarding template. Edit the existing template.",
+          "Onboarding Forms\n\nAdd or update onboarding forms",
+          "Sub-statuses\n\nAdd or Update Statuses"
+        ]
+      },
+      {
+        "ulLabel": "Compliance",
+        "liItems": [
+          "Compliance Settings\n\nCustomise compliance settings.",
+          "Document Types\n\nCompliance Document Type",
+          "Document Library\n\nCustomise compliance settings.",
+          "Compliance Templates\n\nAdd new compliance template. Edit the existing template.",
+          "Compliance Forms\n\nAdd or update compliance forms",
+          "Teams\n\nAdd or Update Teams",
+          "Compliance Design Settings\n\nLanding & Actions Pages Design Settings."
+        ]
+      },
+      {
+        "ulLabel": "Media Libraries",
+        "liItems": ["Image Library", "Video Library", "Text Library"]
+      }
+    ]
+  },
+
+  "MediaLibraryPageData": {
+    "ulCount": 1,
+    "ulItems": [
+      {
+        "ulLabel": "Media Library",
+        "liItems": ["Image Library", "Video Library", "Text Library"]
+      }
+    ]
+  },
+  "WelcomeHubSetupPageData": {
+    "ulCount": 2,
+    "ulItems": [
+      {
+        "ulLabel": "Welcome Hub",
+        "liItems": [
+          "Welcome Hub\n\nWelcome Hub Template",
+          "Welcome Hub Manager\n\nManager templates for Welcome Hub",
+          "Welcome Hub Links\n\nAdd Links for the Welcome Hub",
+          "Key Contacts\n\nAdd contacts to be shown within the Welcome Hub"
+        ]
+      },
+      {
+        "ulLabel": "Media Libraries",
+        "liItems": [
+          "Image Library",
+          "Video Library",
+          "Text Library"
+        ]
+      }
+    ]
+  },
+  "SystemAlertsSetupPageData": {
+    "ulCount": 1,
+    "ulItems": [
+      {
+        "ulLabel": "System Alerts",
+        "liItems": [
+          "System Alerts Templates\n\nAdd new system alert template. Edit the existing template."
+        ]
+      }
+    ]
+  },
+  "BrandBuilderPageData": {
+    "ulCount": 1,
+    "ulItems": [
+      {
+        "ulLabel": "Brand Builder",
+        "liItems": [
+          "Internal Login",
+          "External Login"
+        ]
+      }
+    ]
+  },
+  "RedeploymentSettingsPageData": {
+    "ulCount": 1,
+    "ulItems": [
+      {
+        "ulLabel": "Redeployment Settings",
+        "liItems": [
+          "Redeployment Statuses\n\nAdd or update redeployment statuses",
+          "Redeployment Withdrawal Reasons\n\nAdd or update redeployment withdrawal reasons",
+          "Redeployment Forms\n\nAdd or update redeployment forms"
+      
+        ]
+      }
+    ]
+  },
+  "SecurityRolesPageData": {
+    "ulCount": 1,
+    "ulItems": [
+      {
+        "ulLabel": "Security Roles Left Menu",
+        "liItems": [
+          "Back To System Setting",
+          "List Security Roles",
+          "New Security Role",
+          "Copy",
+          "Print",
+          "Export to Excel"
+          
+      
+        ]
+      }
+    ]
+  }
+}
